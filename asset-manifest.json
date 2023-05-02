@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whether-app2/static/css/main.822b031e.css",
+    "main.js": "/whether-app2/static/js/main.2139430f.js",
+    "static/js/787.5f9c22ba.chunk.js": "/whether-app2/static/js/787.5f9c22ba.chunk.js",
+    "index.html": "/whether-app2/index.html",
+    "main.822b031e.css.map": "/whether-app2/static/css/main.822b031e.css.map",
+    "main.2139430f.js.map": "/whether-app2/static/js/main.2139430f.js.map",
+    "787.5f9c22ba.chunk.js.map": "/whether-app2/static/js/787.5f9c22ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822b031e.css",
+    "static/js/main.2139430f.js"
+  ]
+}
